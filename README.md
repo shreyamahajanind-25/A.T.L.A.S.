@@ -14,11 +14,17 @@ A user can put minimum time limit of say an hour and total time 5 hours on an ed
 Modules:
 
 tkinter: GUI for python.
-win32gui: module for native win32 GUI API. Mainly used in this project to get the name of       app on the foreground using getForegroundWindow.
+
+win32gui: module for native win32 GUI API. Mainly used in this project to get the name of app on the foreground using getForegroundWindow.
+
 smtplib(simple mail transfer protocol library): for mailing features. (Gmail)
+
 winsound:for beep alerts.
+
 time: for setting timers.
+
 _thread: to enablesetting of multiple alerts.
+
 
 
 
